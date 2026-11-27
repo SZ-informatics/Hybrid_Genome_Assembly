@@ -28,7 +28,7 @@ This guide provides a comprehensive, step-by-step workflow for assembling bacter
   - [Script Reference](#script-reference)
   - [Notes](#notes)
   - [Troubleshooting](#troubleshooting)
-  - [Acknowledgements](#acknowledgements)
+
 
 ---
 
