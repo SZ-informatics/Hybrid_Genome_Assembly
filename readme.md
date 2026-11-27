@@ -8,7 +8,6 @@ This guide provides a comprehensive, step-by-step workflow for assembling bacter
 
 - [Whole Genome Sequencing and Assembly Guide](#whole-genome-sequencing-and-assembly-guide)
   - [Table of Contents](#table-of-contents)
-  - [**Bioinformatics ka Chilla**](#bioinformatics-ka-chilla)
   - [Overview](#overview)
   - [Workflow Summary](#workflow-summary)
   - [Step 1: Download Raw Reads](#step-1-download-raw-reads)
@@ -27,15 +26,13 @@ This guide provides a comprehensive, step-by-step workflow for assembling bacter
   - [Step 6: Genome Annotation](#step-6-genome-annotation)
   - [Running the Analysis](#running-the-analysis)
   - [Script Reference](#script-reference)
-  - [Video Playlist](#video-playlist)
   - [Notes](#notes)
   - [Troubleshooting](#troubleshooting)
   - [Acknowledgements](#acknowledgements)
 
 ---
 
-## **Bioinformatics ka Chilla** 
-> Here is the complete detail about Bioinformatics ka Chilla, [register here](https://codanics.com/bioinformatics-ka-chilla/).   
+
 
 
 ## Overview
@@ -201,13 +198,7 @@ This script will:
 
 - [`installation.sh`](./installation.sh): Installs all required tools and databases.
 - [`analysis.sh`](./analysis.sh): Runs the full analysis workflow, step by step.
-## Video Playlist
 
-
-[![Genome Assembly Live Stream](https://img.youtube.com/vi/_7ebzDCXIi4/0.jpg)](https://www.youtube.com/playlist?list=PL9XvIvvVL50FmcR4XE7GCNLXPfzy215HX)
-
-Watch the full step-by-step video guide on YouTube:  
-[Genome Assembly Playlist](https://www.youtube.com/playlist?list=PL9XvIvvVL50FmcR4XE7GCNLXPfzy215HX)
 
 ---
 
@@ -224,11 +215,7 @@ Watch the full step-by-step video guide on YouTube:
 - If a conda environment fails to activate within a script, ensure you are using `eval "$(conda shell.bash hook)"` at the start of your shell session or script.
 - Database downloads may require sufficient disk space and a stable internet connection.
 
----
 
-## Acknowledgements
 
-This guide was prepared for educational purposes to help students understand and perform bacterial genome assembly using modern bioinformatics tools.
 
----
 
